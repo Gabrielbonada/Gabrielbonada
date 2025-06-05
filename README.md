@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com front-end dentro da OI!!
 - 🌱 Estudando javascript 
 - 😄 Pronomes: Ele/Dele
 
