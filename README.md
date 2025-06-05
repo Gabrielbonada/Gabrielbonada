@@ -33,7 +33,7 @@
 <a href="https://www.instagram.com/07__trindade/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<img src="https://i.pinimg.com/originals/ac/e8/b4/ace8b4382cc41cc26d794827b958a281.gif" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moddb.com%2Fgroups%2Fanime-fans-of-moddb%2Fimages%2Fosaka&psig=AOvVaw3fA-Z5wU51wG97PCbgWY6f&ust=1749228231301000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjwxfXc2o0DFQAAAAAdAAAAABBe" />
 <!-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moddb.com%2Fgroups%2Fanime-fans-of-moddb%2Fimages%2Fosaka&psig=AOvVaw3fA-Z5wU51wG97PCbgWY6f&ust=1749228231301000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjwxfXc2o0DFQAAAAAdAAAAABBe -->
 <!--https://2img.net/h/images6.fanpop.com/image/photos/32200000/Death-the-Kid-thedirector-32275292-500-281.gif-->
 
