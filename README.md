@@ -2,16 +2,16 @@
 
 Desenvolvedor em formação apaixonado por tecnologia e criação de soluções web.
 
-🎓 ADS - Estácio
-🏆 Técnico em Informática para Internet - SENAI
+ADS - Estácio
+Técnico em Informática para Internet - SENAI
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Atualmente desenvolvo projetos próprios para aprimorar minhas habilidades em desenvolvimento web, lógica de programação e boas práticas de código.
+Atualmente desenvolvo projetos próprios para aprimorar minhas habilidades em desenvolvimento web, lógica de programação, boas práticas de código e clean code.
 
-Tenho experiência com HTML, CSS, JavaScript e Bootstrap, além de utilizar Git e GitHub para versionamento de projetos.
+Tenho experiência com HTML, CSS, JavaScript e Bootstrap, além de utilizar Git e GitHub para versionamento de projetos. Tambem ja trabalhei muito com a linguagem java e springboot. 
 
-## 🛠 Stack
+##  Stack
 
 <div>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -21,6 +21,6 @@ Tenho experiência com HTML, CSS, JavaScript e Bootstrap, além de utilizar Git 
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-## 🎯 Objetivo
+## Objetivo
 
 Conquistar minha primeira oportunidade na área de desenvolvimento, contribuindo com projetos reais e ampliando minhas habilidades técnicas.
