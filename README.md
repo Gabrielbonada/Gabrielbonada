@@ -1,4 +1,4 @@
-# 💻 Gabriel Bonada Vaz Trindade
+# Gabriel Bonada Vaz Trindade
 
 Desenvolvedor em formação apaixonado por tecnologia e criação de soluções web.
 
@@ -23,4 +23,4 @@ Tenho experiência com HTML, CSS, JavaScript e Bootstrap, além de utilizar Git 
 
 ## Objetivo
 
-Conquistar minha primeira oportunidade na área de desenvolvimento, contribuindo com projetos reais e ampliando minhas habilidades técnicas.
+Conquistar minha primeira oportunidade na área de desenvolvimento como junior, contribuindo com projetos reais e ampliando minhas habilidades técnicas.
